@@ -20,6 +20,9 @@
             android:name=".ComprasActivity"
             android:exported="false" />
         <activity
+            android:name=".PendingActivity"
+            android:exported="false" />
+        <activity
             android:name=".CatalogoActivity"
             android:exported="false" />
         <activity

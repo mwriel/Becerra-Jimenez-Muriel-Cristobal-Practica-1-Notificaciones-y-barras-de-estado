@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">class2mob2</string>
+    <string name="lorem">Lorem ipsum dolor sit amet,
+consectetur adipiscing elit.\n
+Vestibulum auctor dui ac
+nibh viverra, id volutpat
+libero commodo.\n
+Mauris nec urna ut nunc
+faucibus pretium at eu
+massa.\n
+Cras aliquet sem id erat
+hendrerit vehicula.\n
+Aliquam erat volutpat.
+</string>
 </resources>
