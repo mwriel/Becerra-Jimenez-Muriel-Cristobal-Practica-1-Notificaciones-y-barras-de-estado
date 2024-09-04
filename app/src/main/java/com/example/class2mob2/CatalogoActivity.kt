@@ -51,6 +51,8 @@ class CatalogoActivity : AppCompatActivity() {
     private val notificationId = 100
 
 
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_catalogo)
